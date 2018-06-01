@@ -1,0 +1,15 @@
+{
+  "name": "json2xml",
+  "version": "1.0.0",
+  "description": "json2xml",
+  "main": "json2xml.js",
+  "dependencies": {
+    "load-json-file": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ww",
+  "license": "ISC"
+}
